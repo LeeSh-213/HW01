@@ -5,6 +5,7 @@
 #include <vector>
 using namespace std;
 
+// 숫자 5개를 입력받아 배열에 저장하는 코드
 int getsum(int arr[], int size) {
     int sum = 0;
     for (int i = 0; i < size; i++) {  // 배열의 크기만큼 반복한다.
